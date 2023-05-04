@@ -1,2 +1,2 @@
 # savevideo
-Este projeto é uma recriação simplificada do site savevideo.me, utilizando a tecnologia de iframe.
+Este projeto é um clone de dois sites que permitem a conversão de vídeos de redes sociais para diferentes formatos. Para a clonagem, foi utilizado o iframe
